@@ -1,2 +1,12 @@
-# hello-wolrd
- “Sow a thought and you reap an action; sow an act and you reap a habit; sow a habit and you reap a character; sow a character and you reap a destiny.”
+<!doctype html>
+<html>
+<head>
+		<title> my first website</title>
+</head>
+<body>
+	 <h1> FREE PALASTINE</h1>
+	 <h3>i am an explorer</h3>
+	 <strong>strong is my commitmeny to learnin</strong>
+<p>changing the world is just a side effect</p>
+</body>
+</html>
